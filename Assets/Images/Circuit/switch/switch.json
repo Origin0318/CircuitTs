@@ -1,0 +1,31 @@
+{"frames": {
+
+"kaiguan2.png":
+{
+	"frame": {"x":0,"y":0,"w":507,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":507,"h":183},
+	"sourceSize": {"w":507,"h":183}
+},
+"kaiguan3.png":
+{
+	"frame": {"x":0,"y":183,"w":441,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":441,"h":61},
+	"sourceSize": {"w":441,"h":61}
+}},
+"animations": {
+	"kaiguan": ["kaiguan2.png","kaiguan3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "switch.png",
+	"format": "RGBA8888",
+	"size": {"w":507,"h":244},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2cb60f083632bbf84524216f7a1731a4:21cf2e8a899028ab4cfd8e56d966416c:0d368d10121c58c815dfea7b1051ed15$"
+}
+}

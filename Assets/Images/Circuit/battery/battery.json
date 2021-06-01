@@ -1,0 +1,63 @@
+{"frames": {
+
+"dianyuan1.png":
+{
+	"frame": {"x":0,"y":0,"w":491,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":491,"h":155},
+	"sourceSize": {"w":491,"h":155}
+},
+"dianyuan2.png":
+{
+	"frame": {"x":0,"y":155,"w":261,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":95},
+	"sourceSize": {"w":261,"h":95}
+},
+"dianyuan3.png":
+{
+	"frame": {"x":0,"y":250,"w":280,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":116},
+	"sourceSize": {"w":280,"h":116}
+},
+"dianyuan4.png":
+{
+	"frame": {"x":280,"y":250,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":64},
+	"sourceSize": {"w":61,"h":64}
+},
+"dianyuan5.png":
+{
+	"frame": {"x":341,"y":250,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":64},
+	"sourceSize": {"w":61,"h":64}
+},
+"dianyuandizuo2.png":
+{
+	"frame": {"x":0,"y":366,"w":492,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":492,"h":113},
+	"sourceSize": {"w":492,"h":113}
+}},
+"animations": {
+	"dianyuan": ["dianyuan1.png","dianyuan2.png","dianyuan3.png","dianyuan4.png","dianyuan5.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "battery.png",
+	"format": "RGBA8888",
+	"size": {"w":492,"h":479},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8a7e4292caf6759315a68d17fce43d40:ff2dcf2ba59995af8cdbbdf4791eca3a:e49259cc548f7c8237a64dd0d3f8f56c$"
+}
+}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: battery
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2ca2b7587f470324db061b7009529a7e, type: 3}
+    - {fileID: 2800000, guid: 74f7e77f39317db4696148bdfd6c721e, type: 3}
+    - {fileID: 2800000, guid: c784896c75e80e64a98f5ba39a238f4f, type: 3}
+    - {fileID: 2800000, guid: 45f8e0705ba5f934997b7130670f4181, type: 3}
+    - {fileID: 2800000, guid: 09f420ecc4ce85248a524148f257f237, type: 3}
+    - {fileID: 2800000, guid: 1c001c3da230ec04e87fdb3545ddb77b, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_Tag: battery
+  m_IsVariant: 0

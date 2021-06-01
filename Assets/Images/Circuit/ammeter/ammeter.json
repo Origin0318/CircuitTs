@@ -1,0 +1,55 @@
+{"frames": {
+
+"dianliubiao.png":
+{
+	"frame": {"x":0,"y":0,"w":491,"h":491},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":491,"h":491},
+	"sourceSize": {"w":491,"h":491}
+},
+"dianliubiao3.png":
+{
+	"frame": {"x":0,"y":491,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+"dianliubiao4.png":
+{
+	"frame": {"x":86,"y":491,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+"dianliubiao8.png":
+{
+	"frame": {"x":172,"y":491,"w":30,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":14},
+	"sourceSize": {"w":30,"h":14}
+},
+"dianliubiao9.png":
+{
+	"frame": {"x":202,"y":491,"w":4,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":159},
+	"sourceSize": {"w":4,"h":159}
+}},
+"animations": {
+	"dianliubiao": ["dianliubiao3.png","dianliubiao4.png","dianliubiao8.png","dianliubiao9.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ammeter.png",
+	"format": "RGBA8888",
+	"size": {"w":491,"h":650},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cbb3d95cf888941b75c7ce91ced96bb1:c898555a540d2b819c27740c0ebe4611:c6233edba376f19475999c8a3d0398fe$"
+}
+}

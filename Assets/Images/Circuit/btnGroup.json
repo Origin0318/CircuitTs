@@ -1,0 +1,20 @@
+{"frames": {
+
+"repaire.png":
+{
+	"frame": {"x":0,"y":0,"w":180,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":156},
+	"sourceSize": {"w":180,"h":156}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btnGroup.png",
+	"format": "RGBA8888",
+	"size": {"w":180,"h":156},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:88a9e2955ea7307245d40f40abfe36c4:b59824e9143dd89b9c69e57bd54d3c7b:a47fefd66cce7024f9b1e22a1ebd52c7$"
+}
+}

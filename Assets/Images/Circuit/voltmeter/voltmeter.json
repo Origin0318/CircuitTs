@@ -1,0 +1,55 @@
+{"frames": {
+
+"dianyabiao.png":
+{
+	"frame": {"x":0,"y":0,"w":491,"h":490},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":491,"h":490},
+	"sourceSize": {"w":491,"h":490}
+},
+"dianyabiao6.png":
+{
+	"frame": {"x":491,"y":0,"w":4,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":159},
+	"sourceSize": {"w":4,"h":159}
+},
+"dianyabiao7.png":
+{
+	"frame": {"x":0,"y":490,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+"dianyabiao8.png":
+{
+	"frame": {"x":86,"y":490,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+"dianyabiao9.png":
+{
+	"frame": {"x":172,"y":490,"w":30,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":14},
+	"sourceSize": {"w":30,"h":14}
+}},
+"animations": {
+	"dianyabiao": ["dianyabiao6.png","dianyabiao7.png","dianyabiao8.png","dianyabiao9.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "voltmeter.png",
+	"format": "RGBA8888",
+	"size": {"w":495,"h":579},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:db3c55253fffd089344dc8ead66b5f15:128bd9d1861376f38958fbaa81ed2f2d:5e44cf02ac7c7d8b1a0860acbec9c5c4$"
+}
+}

@@ -1,0 +1,55 @@
+{"frames": {
+
+"erjiguan1.png":
+{
+	"frame": {"x":0,"y":0,"w":455,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":455,"h":207},
+	"sourceSize": {"w":455,"h":207}
+},
+"erjiguan2.png":
+{
+	"frame": {"x":0,"y":207,"w":455,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":455,"h":208},
+	"sourceSize": {"w":455,"h":208}
+},
+"erjiguan3.png":
+{
+	"frame": {"x":0,"y":415,"w":454,"h":213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":454,"h":213},
+	"sourceSize": {"w":454,"h":213}
+},
+"erjiguan4.png":
+{
+	"frame": {"x":0,"y":628,"w":454,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":454,"h":225},
+	"sourceSize": {"w":454,"h":225}
+},
+"erjiguan5.png":
+{
+	"frame": {"x":0,"y":853,"w":454,"h":231},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":454,"h":231},
+	"sourceSize": {"w":454,"h":231}
+}},
+"animations": {
+	"erjiguan": ["erjiguan1.png","erjiguan2.png","erjiguan3.png","erjiguan4.png","erjiguan5.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "LED.png",
+	"format": "RGBA8888",
+	"size": {"w":455,"h":1084},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c0f9014dc4cfc874ef4c91e2be4daaa8:82b994ada87d00c4984f465f06a4806f:2288851ff153622ac388e372bb677736$"
+}
+}

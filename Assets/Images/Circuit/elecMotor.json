@@ -1,0 +1,95 @@
+{"frames": {
+
+"diandongji2.png":
+{
+	"frame": {"x":0,"y":0,"w":187,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":233},
+	"sourceSize": {"w":187,"h":233}
+},
+"diandongji3.png":
+{
+	"frame": {"x":187,"y":0,"w":253,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":228},
+	"sourceSize": {"w":253,"h":228}
+},
+"diandongji4.png":
+{
+	"frame": {"x":440,"y":0,"w":188,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":190},
+	"sourceSize": {"w":188,"h":190}
+},
+"diandongji5.png":
+{
+	"frame": {"x":628,"y":0,"w":455,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":455,"h":201},
+	"sourceSize": {"w":455,"h":201}
+},
+"diandongji6.png":
+{
+	"frame": {"x":1083,"y":0,"w":39,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":156},
+	"sourceSize": {"w":39,"h":156}
+},
+"diandongji7.png":
+{
+	"frame": {"x":1122,"y":0,"w":39,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":156},
+	"sourceSize": {"w":39,"h":156}
+},
+"diandongji8.png":
+{
+	"frame": {"x":1161,"y":0,"w":40,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":156},
+	"sourceSize": {"w":40,"h":156}
+},
+"diandongji9.png":
+{
+	"frame": {"x":1201,"y":0,"w":39,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":156},
+	"sourceSize": {"w":39,"h":156}
+},
+"diandongji10.png":
+{
+	"frame": {"x":1240,"y":0,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+},
+"diandongji11.png":
+{
+	"frame": {"x":1326,"y":0,"w":86,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":89},
+	"sourceSize": {"w":86,"h":89}
+}},
+"animations": {
+	"diandongji": ["diandongji2.png","diandongji3.png","diandongji4.png","diandongji5.png","diandongji6.png","diandongji7.png","diandongji8.png","diandongji9.png","diandongji10.png","diandongji11.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "elecMotor.png",
+	"format": "RGBA8888",
+	"size": {"w":1412,"h":233},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7b3ffa5ff7a25f6bab8650157ca17a37:50a2243a3e14ac54bc805cedf5f4999c:d5b7954ec36f95f3457f60a12eb983b3$"
+}
+}

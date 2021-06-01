@@ -1,0 +1,22 @@
+{"frames": {
+
+"dianzu1.png":
+{
+	"frame": {"x":0,"y":0,"w":424,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":424,"h":96},
+	"sourceSize": {"w":424,"h":96}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "resistance.png",
+	"format": "RGBA8888",
+	"size": {"w":424,"h":96},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:084bc2fb22d9db9076a2ce916e6f9955:104f3a09b6a51332969549169e17b61b:bf44de037ca73c89175ec1863fd4e88c$"
+}
+}
